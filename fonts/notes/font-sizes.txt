@@ -1,0 +1,25 @@
+adys - 37
+minion pro - 32
+noto sans - 35
+
+---
+
+dobra bold - noto sans bold - 32
+dobra book - noto sans regular - 32
+dobra light - noto sans light - 32
+dobra medium - noto sans medium - 32
+
+sina nova bold - minion pro bold - 32
+sina nova medium - minion pro medium - 32
+
+---
+
+m_FaceInfo
+m_GlyphTable
+m_CharacterTable
+
+m_UsedGlyphRects 
+m_FreeGlyphRects 
+
+m_AtlasWidth 
+m_AtlasHeight 
